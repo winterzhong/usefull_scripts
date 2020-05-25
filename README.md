@@ -1,2 +1,4 @@
 # usefull_scripts
-some usefull scripts
+用于保存一些使用过的小脚本.
+
+
